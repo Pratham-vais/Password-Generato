@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Pathway Gothic One
+- Font Author: Copyright 2013 The Pathway Gothic Project Authors (https://github.com/etunni/pathway-gothic), with Reserved Font Name 'Pathway'
+- Font Source: https://fonts.gstatic.com/s/pathwaygothicone/v15/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-dTFxeb80flQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
