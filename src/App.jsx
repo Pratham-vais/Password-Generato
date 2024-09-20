@@ -5,7 +5,7 @@ import './App.css'
 function App() {
   const [length, setlength] = useState(8);
   const [noAllowed, setnoAllowed] = useState(false);
-  const [charAllowed, setcharAllowed] = useState(false)
+  const [charAllowed, setcharAllowed] = useState(false);
   const [password, setpassword] = useState();
 
 
